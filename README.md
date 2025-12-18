@@ -1,39 +1,29 @@
- # Hi, I'm Laraib Nadeem 👋
+  Hi, I'm Laraib Nadeem 👋
 
-## 👩‍💻 About Me
+👩‍💻 About Me
 I am a university student with a strong interest in technology and software development. I am currently learning web development and exploring modern technologies to build my skills and professional profile.
 
-## 🛠️ Skills & Tools
+🛠️ Skills & Tools
 - HTML
 - CSS
 - JavaScript (Basic)
 - Git & GitHub
 - MySQL (Basic)
 - VS Code
-
-## 📌 Projects
+📌 Projects
 - *Personal Portfolio Website*  
   A simple responsive portfolio website using HTML and CSS.
 
-- *JavaScript Practice Programs*  
-  Small programs for learning loops, input/output, and basic logic.
+- *resume/online CV *
+- A simple responsive RESUME website using HTML and CSS.
 
 (Projects will be updated as I learn more.)
 
-## ✨ Fun Fact
-I enjoy learning new technologies and improving my coding skills every day## Hi there 👋
+✨ Fun Fact
+I enjoy learning new technologies and improving my coding skills every day
 
-<!--
-**laraib123-coder/laraib123-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I enjoy learning new technologies and improving my skills.
+💻 I like practicing coding in my free time.
+🚀 I am always curious about how websites and apps work.
+📚 I enjoy learning through online courses and hands-on practice.
+🎯 My goal is to become a skilled software developer.
