@@ -19,6 +19,9 @@ I am a university student with a strong interest in technology and software deve
   Small programs for learning loops, input/output, and basic logic.
 
 (Projects will be updated as I learn more.)
+## 📫 Contact Me
+- Email: laraibn110@gmail.com  
+- LinkedIn:(https://www.linkedin.com/in/laraib-nadeem-b07a4939b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ## ✨ Fun Fact
 I enjoy learning new technologies and improving my coding skills every day## Hi there 👋
