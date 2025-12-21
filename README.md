@@ -12,7 +12,7 @@ I am a university student with a strong interest in technology and software deve
 - VS Code
 📌 Projects
 - *Personal Portfolio Website*  
-  A simple responsive portfolio website using HTML and CSS.
+file:///D:/BS-IT-F23-R007/portfolio.html
 
 - *resume/online CV *
 - A simple responsive RESUME website using HTML and CSS.
